@@ -38,7 +38,7 @@ int main() {
         cout << i + 1 << "ci kitab haqqinda melumat: " << endl;
         library[i].Display();
     }
-
+/*Its difference from the other Library Menegment System code is that here we add the author of the book, the prose year and the name of the book.*/
 
 
 
