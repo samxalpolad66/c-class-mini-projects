@@ -63,6 +63,7 @@ int main() {
     system("cls");
 
     Bank bank(3);
+    //Its difference other Online bank management system is that here we use pointers.
 
     bank.performTransactions();
     bank.displayAllBalances();
